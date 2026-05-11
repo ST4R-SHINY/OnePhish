@@ -125,7 +125,7 @@ This project is intended strictly for:
 ## 🎥 Video Showcase
 Click below to watch the video directly from the repository:
 
-https://raw.githubusercontent.com/ST4R-SHINY/OnePhish/main/demo.mp4
+https://github.com/user-attachments/assets/4b7ff7b2-0609-4078-a1e3-77e3cffa22ad
 
 # Author
 
