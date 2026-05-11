@@ -122,6 +122,13 @@ This project is intended strictly for:
 * Educational phishing practice
 * this disclaimer its joke LOL :)
 
+## 🎥 Video Showcase
+
+Click below to watch the video directly from the repository:
+
+https://github.com/ST4R-SHINY/OnePhish/demo.mp4
+
+
 # Author
 
 Tool phishing pro By ST4R-SHINY
