@@ -123,11 +123,9 @@ This project is intended strictly for:
 * this disclaimer its joke LOL :)
 
 ## 🎥 Video Showcase
-
 Click below to watch the video directly from the repository:
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/ST4R-SHINY/OnePhish/main/demo.mp4" type="video/mp4">
-</video>>
+
+https://raw.githubusercontent.com/ST4R-SHINY/OnePhish/main/demo.mp4
 
 # Author
 
