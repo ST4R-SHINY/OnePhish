@@ -126,8 +126,9 @@ This project is intended strictly for:
 
 Click below to watch the video directly from the repository:
 
-https://github.com/ST4R-SHINY/OnePhish/demo.mp4
+## 🎥 Demo Video
 
+https://raw.githubusercontent.com/ST4R-SHINY/OnePhish/main/demo.mp4
 
 # Author
 
