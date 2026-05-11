@@ -128,7 +128,7 @@ Click below to watch the video directly from the repository:
 
 ## 🎥 Demo Video
 
-https://raw.githubusercontent.com/ST4R-SHINY/OnePhish/main/demo.mp4
+https://github.com/ST4R-SHINY/OnePhish/blob/main/demo.mp4?raw=true
 
 # Author
 
