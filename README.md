@@ -62,8 +62,8 @@ from http.server import HTTPServer, SimpleHTTPRequestHandler
 Clone repository:
 
 ```bash id="u2x91m"
-git clone https://github.com/username/ST4R-SHINY.git
-cd ST4R-SHINY
+git clone https://github.com/ST4R-SHINY/OnePhish
+cd OnePhish
 ```
 
 Install dependencies:
@@ -97,10 +97,10 @@ https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do
 
 # Usage
 
-Start ST4R-SHINY:
+Start OnePhish:
 
 ```bash id="g6md1s"
-python main.py
+python phishing.py
 ```
 
 Example execution flow:
@@ -122,9 +122,7 @@ This project is intended strictly for:
 * Educational phishing practice
 * this disclaimer its joke LOL :)
 
-Users are responsible for complying with all applicable laws and authorization requirements.
-
 # Author
 
 Tool phishing pro By ST4R-SHINY
-Phishing tool
+Phishing tool - OFICIAL REPOSITORIE
