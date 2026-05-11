@@ -125,10 +125,9 @@ This project is intended strictly for:
 ## 🎥 Video Showcase
 
 Click below to watch the video directly from the repository:
-
-## 🎥 Demo Video
-
-https://github.com/ST4R-SHINY/OnePhish/blob/main/demo.mp4?raw=true
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/ST4R-SHINY/OnePhish/master/demo.mp4" type="video/mp4">
+</video>
 
 # Author
 
